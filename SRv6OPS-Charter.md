@@ -24,5 +24,5 @@ The SRv6OPS WG will work on the following items:
 ## Relationships with Other WGs:
 The SRv6OPS WG will cooperate with other WGs as needed. Specific expected interactions include (but may not be limited to):
 * SPRING WG: Close cooperation on SRv6 protocol extensions, new requirements and operational considerations.
-* v6ops WG: Sharing best practices and addressing IPv6 and SRv6 interworking challenges.
+* v6ops WG: Sharing best practices and addressing IPv6 and SRv6 interworking challenges. A plan to transition to v6ops when core milestones are met will be considered in the future.
 * 6man WG: cooperation on core IPv6 functionalities and addressing their impact on SRv6 operation.
